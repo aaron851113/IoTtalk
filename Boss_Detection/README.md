@@ -49,10 +49,14 @@
     - face_size = (47, 62)
     - test_size = 0.25
     - **compile** train.py
-    ![](https://i.imgur.com/VBervVv.png)
-    - 
+    <a/>
+    <img src="photo/Train Model.png" width="800" height="400" /> <br />
+                    
 
 
 <br />
 
 ### (5) IoTTalk
+<img src="photo/architecture.png" width="800" height="400" /> 
+<img src="photo/iottalk.png" width="800" height="400" /> 
+<img src="photo/iottalk2.png" width="800" height="400" /> 
