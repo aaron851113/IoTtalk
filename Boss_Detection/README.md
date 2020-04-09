@@ -20,7 +20,7 @@
     - original (save original photo)
     - process （empty file , wait for next step to use）
     <a/>
-    <img src="https://i.imgur.com/jQ19GZ9.png" width="80" height="40" />     
+    <img src="https://i.imgur.com/jQ19GZ9.png" width="150" height="80" />     
 
 <br />
 
