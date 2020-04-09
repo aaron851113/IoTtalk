@@ -16,3 +16,6 @@
   2. [GitLab](https://drive.google.com/open?id=13AyBQ-3m_RuPOW1J2aR1yD0svUKuEFdg)
 *  Demo : (data in [here](https://github.com/aaron851113/iottalk/tree/master/Green%20Energy/data) ) <br />
 <img src="photo/dashboard.png" width="500" height="350" /> <br />
+
+### Step3 - LSTM for predict Power
+use weather data for predict sun power <br />
