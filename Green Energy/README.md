@@ -7,5 +7,8 @@
 <img src="photo/device1.jpg" width="200" height="200" /> <br />
 <img src="photo/device2.jpg" width="200" height="200" /> <br />
 
-### Step2 - Create Dashboard
-* reference : [iottalk-Dashboard](https://github.com/aaron851113/iottalk/blob/master/web/%E7%89%A9%E8%81%AF%E7%B6%B2(11_27)%20Dashboard.md)
+### Step2 - Set Arduino & Create Dashboard
+* Set arduino reference : 
+  1. https://drive.google.com/file/d/1VBm8EknyPANynNuwsmrHMpeHXHOdBu-k/view?usp=sharing
+  2. https://drive.google.com/file/d/13D_pV3V8zTPbFObTAUXWKhlSloTQ-2cH/view?usp=sharing
+* Set dashboard reference : [iottalk-Dashboard](https://github.com/aaron851113/iottalk/blob/master/web/%E7%89%A9%E8%81%AF%E7%B6%B2(11_27)%20Dashboard.md)
