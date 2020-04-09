@@ -20,5 +20,6 @@
 ### Step3 - LSTM for predict Power
 * LSTM reference :
   1. https://www.youtube.com/watch?v=WCUNPb-5EYI
-  2. https://github.com/tensorlayer/tensorlayer/blob/master/examples/text_generation/tutorial_generate_text.py
+  2. https://drive.google.com/file/d/1JdeOJeawNKUnwQ4eso9FbvKz1z1v5XbL/view?usp=sharing
+  3. https://github.com/tensorlayer/tensorlayer/blob/master/examples/text_generation/tutorial_generate_text.py
 use weather data for predict sun power <br />
