@@ -1,7 +1,7 @@
 # Green Energy
 
 ### Step1 - Install Device
-* reference : <br />
+* device architecture reference : <br />
 <img src="photo/device.png" width="200" height="200" /> <br />
 *  Demo : <br />
 <img src="photo/device1.jpg" width="200" height="200" /> <br />
