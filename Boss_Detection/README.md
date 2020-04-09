@@ -2,6 +2,7 @@
 ###### tags: `IoT`
 
 <img src="photo/demo.png" width="800" height="400" /> 
+<img src="photo/architecture.png" width="800" height="400" /> 
 
 ### (1) Tools & Reference
 - Reference
@@ -53,6 +54,5 @@
 <br />
 
 ### (5) IoTTalk & LineBot
-<img src="photo/architecture.png" width="800" height="400" /> 
 <img src="photo/iottalk.png" width="800" height="400" /> 
 <img src="photo/iottalk2.png" width="800" height="400" /> 
