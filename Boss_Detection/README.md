@@ -1,8 +1,8 @@
 # IoT Exam - Boss Detection AIoT
 ###### tags: `IoT`
 
-<img src="photo/demo.png" width="800" height="400" /> 
-<img src="photo/architecture.png" width="800" height="400" /> 
+<img src="photo/demo.png" width="600" height="350" /> 
+<img src="photo/architecture.png" width="600" height="350" /> 
 
 ### (1) Tools & Reference
 - Reference
@@ -20,7 +20,7 @@
     - original (save original photo)
     - process （empty file , wait for next step to use）
     <a/>
-    <img src="https://i.imgur.com/jQ19GZ9.png" width="800" height="400" />     
+    <img src="https://i.imgur.com/jQ19GZ9.png" width="80" height="40" />     
 
 <br />
 
@@ -45,12 +45,12 @@
 - train.py
     - **compile** train.py
     <a/>
-    <img src="photo/Train Model.png" width="800" height="400" /> <br />
+    <img src="photo/Train Model.png" width="500" height="300" /> <br />
                     
 
 
 <br />
 
 ### (5) IoTTalk & LineBot
-<img src="photo/iottalk.png" width="800" height="400" /> 
-<img src="photo/iottalk2.png" width="800" height="400" /> 
+<img src="photo/iottalk.png" width="500" height="300" /> 
+<img src="photo/iottalk2.png" width="500" height="300" /> 
