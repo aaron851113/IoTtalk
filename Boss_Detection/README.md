@@ -44,10 +44,6 @@
 
 ### (4) Face Detection Training model
 - train.py
-    - facePath = "datasets"
-    - face_min = number of boss photo in boss file (ex:28)
-    - face_size = (47, 62)
-    - test_size = 0.25
     - **compile** train.py
     <a/>
     <img src="photo/Train Model.png" width="800" height="400" /> <br />
