@@ -25,6 +25,6 @@ data : [sun.csv](data/sun.csv)
 * pandas
 </a>
 use weather data for predict sun power <br />
-<img src="photo/data.png" width="450" height="100" /> <br />
+<img src="photo/data.png" width="550" height="150" /> <br />
 <img src="photo/result1.png" width="200" height="200" /> <br />
 
