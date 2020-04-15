@@ -26,4 +26,4 @@ data : [sun.csv](data/sun.csv)
 </a>
 use weather data for predict sun power <br />
 
-<img src="photo/result1.png" width="150" height="150" /> <br />
+<img src="photo/result1.png" width="200" height="200" /> <br />
