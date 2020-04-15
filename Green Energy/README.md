@@ -18,7 +18,7 @@
 <img src="photo/dashboard.png" width="500" height="350" /> <br />
 
 ### Step3 - Scikit-Learn LinearRegreesion : Predict Sun power(W) with weather
-code : [Here](Green_Energy.ipynb)
+code : [Here](Green_Energy.ipynb) <br />
 data : [sun.csv](data/sun.csv)
 * scikit learn
 * numpy
@@ -26,3 +26,4 @@ data : [sun.csv](data/sun.csv)
 </a>
 use weather data for predict sun power <br />
 
+<img src="photo/result1.png" width="150" height="150" /> <br />
