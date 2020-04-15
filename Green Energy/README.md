@@ -17,9 +17,9 @@
 *  Demo : (data in [here](https://github.com/aaron851113/iottalk/tree/master/Green%20Energy/data) ) <br />
 <img src="photo/dashboard.png" width="500" height="350" /> <br />
 
-### Step3 - Scikit-Learn LinearRegreesion for predict Power
-code : [Here] 
-data : [sun.csv]
+### Step3 - Scikit-Learn LinearRegreesion : Predict Sun power(W) with weather
+code : [Here](Green_Energy.ipynb)
+data : [sun.csv](data/sun.csv)
 * scikit learn
 * numpy
 * pandas
