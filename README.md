@@ -7,4 +7,4 @@ NCTU AI College 108-1 <br />
 4. [Boss Dection IoT](https://github.com/aaron851113/iottalk/tree/master/Boss_Detection) (Final Project)
 
 ### Green Energy Project (AI模組二)
-* [Green Energy(Sun Power)](https://github.com/aaron851113/iottalk/tree/master/Green%20Energy)
+* [Green Energy (Sun Power)](https://github.com/aaron851113/iottalk/tree/master/Green%20Energy)
