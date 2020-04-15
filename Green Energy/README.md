@@ -19,6 +19,7 @@
 
 ### Step3 - Scikit-Learn LinearRegreesion for predict Power
 code : [Here] 
+data : [sun.csv]
 * scikit learn
 * numpy
 * pandas
